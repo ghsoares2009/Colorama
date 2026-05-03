@@ -28,4 +28,4 @@ Este é um sistema simples desenvolvido em Python para simular o monitoramento d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/ghsoares2009/Colorama.git
+   git clone https://github.com/ghsoares2009/Colorama
